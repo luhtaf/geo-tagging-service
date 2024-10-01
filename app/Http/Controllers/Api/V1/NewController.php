@@ -15,6 +15,6 @@ use App\Models\Role;
 class NewController extends Controller
 {
     public function index(){
-        return 'Hello From Geo Tagging Service';
+        return 'Hello From Notifikasi Whatsapp Service';
     }
 }
